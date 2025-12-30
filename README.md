@@ -104,13 +104,13 @@ The final tuned Random Forest model achieved approximately 86–88% accuracy wit
 
 This project demonstrates:
 
-Complete Machine Learning lifecycle
+ - Complete Machine Learning lifecycle
 
-Model evaluation & tuning
+ - Model evaluation & tuning
 
-Real-world deployment using Streamlit
+ - Real-world deployment using Streamlit
 
-Practical healthcare prediction system
+ - Practical healthcare prediction system
 
 ---
 ### Author
