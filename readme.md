@@ -7,31 +7,31 @@ This project automates medical risk assessment, reduces manual diagnosis effort,
 
 ### Features
 
-Automated Risk Prediction using a tuned Random Forest model
+ - Automated Risk Prediction using a tuned Random Forest model
 
-Interactive Web Application built with Streamlit
+ - Interactive Web Application built with Streamlit
 
-Supports Single Patient Analysis – enter values and get instant prediction
+ - Supports Single Patient Analysis – enter values and get instant prediction
 
-Model Comparison – Logistic Regression, Random Forest, SVM
+ - Model Comparison – Logistic Regression, Random Forest, SVM
 
-Hyperparameter Tuning using RandomizedSearchCV
+ - Hyperparameter Tuning using RandomizedSearchCV
 
-Model Persistence using .pkl files
+ - Model Persistence using .pkl files
 
-End-to-End Pipeline – Data → Training → Evaluation → Deployment
+ - End-to-End Pipeline – Data → Training → Evaluation → Deployment
 
 ---
 
 ### Tech Stack
 
-Programming Language: Python
+ - Programming Language: Python
 
-Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
+ - Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
 
-Web Framework: Streamlit
+ - Web Framework: Streamlit
 
-Model Storage: Pickle
+ - Model Storage: Pickle
 
 ---
 
@@ -50,9 +50,9 @@ Target Column: HeartDisease
 ### Getting Started
 Prerequisites
 
-Python 3.x
+ - Python 3.x
 
-Required Python packages listed in requirements.txt
+ - Required Python packages listed in requirements.txt
 
 ---
 
@@ -60,8 +60,8 @@ Required Python packages listed in requirements.txt
 
 Clone the repository:
 
-git clone https://github.com/harrietjvazhappilly/heart-disease-predictor.git
-cd heart-disease-predictor
+`git clone https://github.com/harrietjvazhappilly/heart-disease-predictor.git
+cd heart-disease-predictor`
 
 
 Install dependencies:
@@ -76,18 +76,21 @@ streamlit run app.py
 ---
 
 ### Example – Low Risk Input
-Feature	Value
-Age	30
-Sex	Female
-Chest Pain Type	Non-Anginal Pain
-Resting BP	110
-Cholesterol	170
-Fasting Blood Sugar	0
-ECG	Normal
-Max Heart Rate	190
-Exercise Angina	No
-Oldpeak	0
-ST Slope	Up
+
+| Feature              | Value             |
+|----------------------|-------------------|
+| Age                  | 30                |
+| Sex                  | Female            |
+| Chest Pain Type      | Non-Anginal Pain  |
+| Resting BP           | 110               |
+| Cholesterol          | 170               |
+| Fasting Blood Sugar  | 0                 |
+| ECG                  | Normal            |
+| Max Heart Rate       | 190               |
+| Exercise Angina      | No                |
+| Oldpeak              | 0                 |
+| ST Slope             | Up                |
+
 
 ---
 
@@ -117,6 +120,7 @@ GitHub: https://github.com/harrietjvazhappilly
 LinkedIn: https://www.linkedin.com/in/harriet-j-vazhappilly-5aaa92329/
 Email: 24ct245@mgits.ac.in 
        harrietjvazhappilly@gmail.com
+
 
 
 
