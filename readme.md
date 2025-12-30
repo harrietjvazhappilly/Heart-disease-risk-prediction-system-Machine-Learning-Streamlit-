@@ -116,10 +116,14 @@ Practical healthcare prediction system
 ### Author
 
 Harriet J. Vazhappilly
+
 GitHub: https://github.com/harrietjvazhappilly
+
 LinkedIn: https://www.linkedin.com/in/harriet-j-vazhappilly-5aaa92329/
+
 Email: 24ct245@mgits.ac.in 
        harrietjvazhappilly@gmail.com
+
 
 
 
