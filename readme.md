@@ -2,7 +2,7 @@
 
 An end-to-end Heart Disease Risk Prediction System built using *Python, Machine Learning*, and *Streamlit* to analyze patient health data and predict the likelihood of heart disease.
 This project automates medical risk assessment, reduces manual diagnosis effort, and demonstrates a complete ML deployment workflow.
-
+---
 ### Features
 
 Automated Risk Prediction using a tuned Random Forest model
@@ -110,5 +110,6 @@ Real-world deployment using Streamlit
 Practical healthcare prediction system
 
 Ideal for internship portfolios, academic projects, and ML showcases.
+
 
 ⭐ Feel free to star the repository if you found this project useful!
