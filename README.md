@@ -115,7 +115,7 @@ This project demonstrates:
 ---
 ### Author
 
-Harriet J. Vazhappilly
+Harriet J Vazhappilly
 
 GitHub: https://github.com/harrietjvazhappilly
 
