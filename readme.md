@@ -2,7 +2,9 @@
 
 An end-to-end Heart Disease Risk Prediction System built using *Python, Machine Learning*, and *Streamlit* to analyze patient health data and predict the likelihood of heart disease.
 This project automates medical risk assessment, reduces manual diagnosis effort, and demonstrates a complete ML deployment workflow.
+
 ---
+
 ### Features
 
 Automated Risk Prediction using a tuned Random Forest model
@@ -19,6 +21,8 @@ Model Persistence using .pkl files
 
 End-to-End Pipeline – Data → Training → Evaluation → Deployment
 
+---
+
 ### Tech Stack
 
 Programming Language: Python
@@ -29,7 +33,10 @@ Web Framework: Streamlit
 
 Model Storage: Pickle
 
-Project Structure
+---
+
+###Project Structure
+
 heart-disease-predictor/
 │
 ├── notebooks/
@@ -45,6 +52,7 @@ heart-disease-predictor/
 ├── README.md
 └── requirements.txt
 
+---
 
 ### Dataset
 
@@ -56,12 +64,16 @@ Target Column: HeartDisease
 
 1 → High Risk
 
+---
+
 ### Getting Started
 Prerequisites
 
 Python 3.x
 
 Required Python packages listed in requirements.txt
+
+---
 
 ### Installation
 
@@ -80,6 +92,8 @@ Run the Streamlit app:
 
 streamlit run app.py
 
+---
+
 ### Example – Low Risk Input
 Feature	Value
 Age	30
@@ -93,9 +107,14 @@ Max Heart Rate	190
 Exercise Angina	No
 Oldpeak	0
 ST Slope	Up
+
+---
+
 ### Model Performance
 
 The final tuned Random Forest model achieved approximately 86–88% accuracy with reduced false-negative predictions, making it suitable for healthcare-related risk assessment tasks.
+
+---
 
 ### Conclusion
 
@@ -109,7 +128,16 @@ Real-world deployment using Streamlit
 
 Practical healthcare prediction system
 
-Ideal for internship portfolios, academic projects, and ML showcases.
+---
+### Author
+
+Harriet J. Vazhappilly
+GitHub: https://github.com/harrietjvazhappilly
+LinkedIn: https://www.linkedin.com/in/harriet-j-vazhappilly-5aaa92329/
+Email: 24ct245@mgits.ac.in 
+       harrietjvazhappilly@gmail.com
 
 
-⭐ Feel free to star the repository if you found this project useful!
+
+
+
