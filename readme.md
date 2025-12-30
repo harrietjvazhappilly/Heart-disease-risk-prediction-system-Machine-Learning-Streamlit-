@@ -35,25 +35,6 @@ Model Storage: Pickle
 
 ---
 
-###Project Structure
-
-heart-disease-predictor/
-│
-├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_preprocessing_encoding.ipynb
-│   ├── 03_model_training_comparison.ipynb
-│   └── 04_hyperparameter_tuning.ipynb
-│
-├── app.py
-├── heart_disease_model.pkl
-├── heart.csv
-├── model_columns.pkl
-├── README.md
-└── requirements.txt
-
----
-
 ### Dataset
 
 Dataset: Heart Disease Dataset (UCI / Kaggle)
@@ -136,6 +117,7 @@ GitHub: https://github.com/harrietjvazhappilly
 LinkedIn: https://www.linkedin.com/in/harriet-j-vazhappilly-5aaa92329/
 Email: 24ct245@mgits.ac.in 
        harrietjvazhappilly@gmail.com
+
 
 
 
