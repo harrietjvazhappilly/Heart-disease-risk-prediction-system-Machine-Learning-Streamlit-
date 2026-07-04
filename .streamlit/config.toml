@@ -1,0 +1,6 @@
+[server]
+headless = true
+enableCORS = false
+
+# Use the cloud-provided port if available
+port = ${PORT}
